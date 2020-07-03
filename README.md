@@ -1,9 +1,7 @@
 
-# Generating Memoji from Photos
+# Avatar VGG Face Generation from Photos
 
-This is the source code used in my article about generating Memoji from photos.
-Please refer to the original article for context:
-
+Reference:
 https://patniemeyer.github.io/2018/10/29/generating-memoji-from-photos.html
 
 ## eval-memoji.lua
@@ -20,7 +18,7 @@ If you have a folder of ranked output from eval-memoji.lua representing e.g. a M
 
 ## Homebrew
 
-If you don't have it yet, install the Homebrew package manager:
+Install the Homebrew package manager:
 
 https://brew.sh/
 
